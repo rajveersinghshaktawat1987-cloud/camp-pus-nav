@@ -1,0 +1,6 @@
+{
+  "name": "CampusNav",
+  "description": "Interactive campus navigation with offline maps, custom saved locations, accessible turn-by-turn routing, and building directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
